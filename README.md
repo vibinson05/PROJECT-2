@@ -11,7 +11,7 @@ This is a simple interactive calculator built with HTML, CSS, and JavaScript. It
 
 ## Demo
 
-You can try out the interactive calculator live [here](https://yourusername.github.io/calculator-project/). 
+You can try out the interactive calculator live [here](https://mycalcmate.netlify.app/). 
 
 
 ## Project Structure
